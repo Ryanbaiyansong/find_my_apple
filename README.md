@@ -1,4 +1,4 @@
-# Demo Simulation of Apple's "Find My" System
+# IOS find my device simulation
 
 The code in `findmy.py` performs a simple simulation of Apple's Find My system in a scenario where someone loses his phone in an airport without internet. His phone uses Bluetooth to communicate with nearby iDevices and have them relay approximate location information to iCloud.
 
